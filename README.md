@@ -6,7 +6,7 @@ This is the repository for Shoppers Party chrome extension. I learnt how to make
 
 Steps to load the extension into your browser:
 
-:one: Go to chrome://extensions/ and check the box for Developer mode in the top right
+:one: Go to ``chrome://extensions/`` and check the box for Developer mode in the top right
 
-:two: Click the Load unpacked extension button and select the cloned folder for your extension to install it
+:two: Click the ``Load unpacked extension`` button and select the cloned folder for your extension to install it
 
