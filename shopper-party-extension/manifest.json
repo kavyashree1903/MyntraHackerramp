@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Shoppers Party",
+  "description": "Get a real time shopping experience at the comfort of your home",
+  "version": "1.0.0",
+  "icons": { "16": "16.png",
+      "32": "32.png",
+      "64": "64.png",
+      "128":"128.png"
+  },
+  "browser_action": {
+    "default_icon": "64.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
